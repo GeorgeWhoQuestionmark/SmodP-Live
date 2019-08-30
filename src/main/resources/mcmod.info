@@ -1,15 +1,15 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "SModPLive",
+  "name": "SModP Live",
+  "description": "The Unofficial Fan-Made SMPLive mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
-  "logoFile": "",
+  "authorList": ["YoniMeller", "jschlattstanUwU", "Ganman14O", "_estebanaf_", "Mysu69429"],
+  "credits": "The team (by Twitter handles): Textures: Ganman14O, _estebanaf_, Mysu69429. Code: YoniMeller. Who came up with the idea: jschlattstanUwU.",
+  "logoFile": "assets/icon.png",
   "screenshots": [],
   "dependencies": []
 }
