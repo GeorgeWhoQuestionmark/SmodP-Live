@@ -1,6 +1,6 @@
 [
 {
-  "modid": "SModPLive",
+  "modid": "smplive",
   "name": "SModP Live",
   "description": "The Unofficial Fan-Made SMPLive mod.",
   "version": "${version}",
