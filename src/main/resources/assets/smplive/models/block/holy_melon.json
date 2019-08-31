@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "up": "smplive:blocks/holy_melon_top",
+    "down": "smplive:blocks/holy_melon_top",
+    "north": "smplive:blocks/holy_melon_side",
+    "west": "smplive:blocks/holy_melon_side",
+    "east": "smplive:blocks/holy_melon_side",
+    "south": "smplive:blocks/holy_melon_side"
+  }
+}
