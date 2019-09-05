@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "smplive:blocks/schlattcoin_ore"
+  }
+}

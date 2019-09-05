@@ -1,1 +1,8 @@
+#Items
 item.asspenis7.name=Asspenis 7
+item.schlattcoin.name=Schlattcoin™
+
+#Blocks
+tile.holy_melon.name=Holy Melon
+tile.schlattcoin_block.name=Schlattcoin™ Block
+tile.schlattcoin_ore.name=Schlattcoin™ Ore
